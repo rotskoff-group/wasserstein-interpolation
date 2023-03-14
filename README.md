@@ -1,4 +1,4 @@
-# Unifying thermodynamic geometries
+# Unified, Geometric Framework for Nonequilibrium Protocol Optimization
 
 
 Official implementation of:  
